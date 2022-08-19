@@ -14,23 +14,39 @@ Nope
 
 # INSTRUCTIONS TO BUILD AND TEST THE PROJECT 💡
 - Find telegram bot @zbvUA_bot or follow the link t.me/zbvUA_bot
-- Connect the EOM
-- Click "Run Code" in the code sections
-- If desired, develop your CSV file
-- Evaluate the process of multi-label classification of professional areas
-- If desired, save the trained model (H5 file) and the results of professional orientation (CSV file)
-
-> Please note that the result of matching the professional direction ranges from 0 to 1.
-
-# SET OF TEST TECHNIQUES 📖
-- Myers-Briggs Type Indicator
-- J. Holland method of professional self-determination
-- Questionnaire of professional inclinations by L. Yovaishi (modified by G. V. Rezapkina)
-- Raven's Progressive Matrices
+- Launch the bot /start
+- Optionally check the bot version /version
+- From the provided icon menu, select one of the functions:
+Losses of Russia ☠️
+Losses of Ukraine 🇺🇦 (🏚 Infrastructure damage map by region)
+🎥 LIVE | Air alert map
+🎥 LIVE | Map of combat operations
+Dynamics of RF losses 📉 (🪖 1, ✈️ 2, 🚛 3, 🚢 4)
+Emigration indicators 🚞
+Percentage characteristics of Russia's losses 📊
 
 # AN EXAMPLE OF THE RESULTS OF USING THE SOFTWARE SOLUTION 🔥
-![image](https://user-images.githubusercontent.com/55029455/154786025-c3cef465-d67c-4dbb-ab0c-d39f768fb0eb.png)
-![image](https://user-images.githubusercontent.com/55029455/154786030-41227803-1b3d-43ec-b51e-af9ece559c5a.png)
-![image](https://user-images.githubusercontent.com/55029455/154786105-0c69a6af-7e23-4b0d-ab3a-136075d5e64d.png)
+![image](https://user-images.githubusercontent.com/55029455/185574418-77e553a2-1432-4a7c-b803-47d80c54feb6.png)
+![image](https://user-images.githubusercontent.com/55029455/185574543-5b3ff433-07b6-4ada-81b0-3afad61ce600.png)
+![image](https://user-images.githubusercontent.com/55029455/185574570-62acbe41-937c-4d6e-b431-3e53fed331ff.png)
+![image](https://user-images.githubusercontent.com/55029455/185574596-f6b36fed-6cd1-48cd-a1fe-cc82e5f8f1d8.png)
+![image](https://user-images.githubusercontent.com/55029455/185574630-d0ae916a-a53d-4eff-b2f1-5781d8498145.png)
+![image](https://user-images.githubusercontent.com/55029455/185574664-bf44425d-16a5-40c9-bdf9-9a411dfd3eb8.png)
+![image](https://user-images.githubusercontent.com/55029455/185574697-df7b9e38-5f29-45f3-8708-44496ff7d2bb.png)
+![image](https://user-images.githubusercontent.com/55029455/185574719-b69bef0c-f2c2-47bb-8238-46a32bedfd22.png)
+![image](https://user-images.githubusercontent.com/55029455/185574738-d00d1dd1-60bb-459f-a3ec-5f4e5a656204.png)
+![image](https://user-images.githubusercontent.com/55029455/185574756-09609bbe-6887-4603-92fc-21b23a750c87.png)
+![image](https://user-images.githubusercontent.com/55029455/185574773-133077ff-ac85-45c1-9706-367963cf526f.png)
+![image](https://user-images.githubusercontent.com/55029455/185574798-1521392d-d0f9-4b85-89b4-b4f8d5c56829.png)
+![image](https://user-images.githubusercontent.com/55029455/185574819-f2babed9-4104-4db2-b3a9-95869fb113fe.png)
 
-> To maintain respondent confidentiality, the original Dataset is not provided, but you can edit the .csv file yourself if you wish to explore the issue more deeply.
+
+
+> Information is processed in real time. The data is checked with official sources, in particular:
+- minusrus.com
+- mil.gov.ua
+- minfin.com.ua
+- fakty.com.ua
+- unhcr.org (Office of the United Nations High Commissioner for Refugees)
+- ulag.org.ua
+- Russia's war on Ukraine: Military balance of power (European Parliament, March 2022)
